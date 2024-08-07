@@ -70,7 +70,7 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junya-thinkactive-d&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=junya-thinkactive-d&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=junya-thinkactive-d&show_icons=true&theme=radical&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=junya-thinkactive-d&layout=compact&theme=radical)
 
