@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://junblog-dot.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/junya_tad)
-
+![](https://komarev.com/ghpvc/?username=junya-thinkactice-d)
 
 ### 🚀 About Me
 
