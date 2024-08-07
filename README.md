@@ -7,7 +7,13 @@
 
 
 ### 🚀 About Me
-Hey there! I'm a tech enthusiast who loves diving into the exciting world of web3. When I'm not at my day job, you'll find me coding away, building cool stuff in the decentralized space. My goal? To become a full-time engineer working on awesome projects across different DAOs. I'm all about creating innovative solutions that could make our digital world more open and fair for everyone. If you're into blockchain, smart contracts, or anything web3, let's chat!
+
+### 🚀 About Me / 自己紹介
+
+Hi there! I'm a programmer who loves exploring new technologies, with a particular interest in web3 and decentralized systems. My goal is to become a full-time engineer working on exciting projects across multiple DAOs. I enjoy tackling interesting coding challenges in my free time and hope to contribute to projects that can make a positive impact on society. If you're into blockchain, smart contracts, or anything web3-related, I'd love to chat!
+
+こんにちは！新しい技術を探求するのが大好きなプログラマーです。特にweb3や分散型システムに興味があります。将来的には、複数のDAOで面白いプロジェクトに携わるフルタイムのエンジニアになることが目標です。空き時間には興味深いコーディングの課題に取り組んでおり、社会にポジティブな影響を与えるプロジェクトに貢献したいと考えています。ブロックチェーンやスマートコントラクト、web3関連のことに興味がある方、ぜひ一緒にお話しできたら嬉しいです。
+
 
 ### 🛠️ Technologies & Tools
 
@@ -57,9 +63,23 @@ Hey there! I'm a tech enthusiast who loves diving into the exciting world of web
 - Artificial Intelligence and its applications
 - Decentralized Autonomous Organizations (DAOs)
 
+- Web3技術と分散型アプリケーション
+- 人工知能とその応用
+- 分散型自律組織（DAO）
+
 ### 🏕️ When I'm Not Coding
 
-When I'm not coding, you can find me lost in the world of music, conquering virtual realms in video games, or honing my bushcraft skills in the great outdoors. These diverse interests keep me inspired and balanced!
+
+When I'm not coding, I enjoy listening to music, playing video games, and occasionally practicing bushcraft outdoors. These various hobbies help me refresh my mind.
+
+コーディング以外の時間は、音楽を聴いたり、ゲームをしたり、時々アウトドアでブッシュクラフトを楽しんだりしています。色々な趣味で気分転換しています。
+
+### 🤖 AI Collaboration / AI との共同作業
+
+This README is being created together with Claude, an AI assistant.
+
+このREADMEは、AI アシスタントの Claude と一緒に作成しております。
+
 ### 📫 Let's Connect
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/junya_tad)
