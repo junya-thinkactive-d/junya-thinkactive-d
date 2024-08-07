@@ -74,8 +74,7 @@ When I'm not coding, I enjoy listening to music, playing video games, and occasi
 
 コーディング以外の時間は、音楽を聴いたり、ゲームをしたり、時々アウトドアでブッシュクラフトを楽しんだりしています。色々な趣味で気分転換しています。
 
-### 🤖 AI Collaboration / AI との共同作業
-
+### 🤖 AI Collaboration
 This README is being created together with Claude, an AI assistant.
 
 このREADMEは、AI アシスタントの Claude と一緒に作成しております。
