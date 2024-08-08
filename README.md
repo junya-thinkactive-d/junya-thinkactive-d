@@ -3,8 +3,8 @@
 ## 💻 Tech Enthusiast | 🎵 Music Lover　| 🎮 Gamer | 🏕️ Bushcraft Adventurer
 
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://junblog-dot.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/junya_tad)
-![](https://komarev.com/ghpvc/?username=junya-thinkactice-d)
+[![X (formerly Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/junya_tad)
+![](https://komarev.com/ghpvc/?username=junya-thinkactive-d)
 
 ### 🚀 About Me
 
@@ -79,7 +79,7 @@ This README is being created together with Claude, an AI assistant.
 
 ### 📫 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/junya_tad)
+[![X (formerly Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/junya_tad)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech, music, or outdoor adventures!
 
