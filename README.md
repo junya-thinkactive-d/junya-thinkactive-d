@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm junya-tad
 
-## 💻 Tech Enthusiast | 🎵 Music Lover　| 🎮 Gamer | 🏕️ Bushcraft Adventurer
+## 💻 Tech Enthusiast | 🎵 Music Lover　| 🎮 Gamer
 
 [![Website](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://junblog-dot.com/)
 [![X (formerly Twitter)](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/junya_tad)
@@ -67,9 +67,9 @@ Hi there! I'm a programmer who loves exploring new technologies, with a particul
 ### 🏕️ When I'm Not Coding
 
 
-When I'm not coding, I enjoy listening to music, playing video games, and occasionally practicing bushcraft outdoors. These various hobbies help me refresh my mind.
+When I'm not coding, I enjoy listening to music, playing video games. These various hobbies help me refresh my mind.
 
-コーディング以外の時間は、音楽を聴いたり、ゲームをしたり、時々アウトドアでブッシュクラフトを楽しんだりしています。色々な趣味で気分転換しています。
+コーディング以外の時間は、音楽を聴いたり、ゲームを楽しんだりしています。色々な趣味で気分転換しています。
 
 ### 🤖 AI Collaboration
 This README is being created together with Claude, an AI assistant.
