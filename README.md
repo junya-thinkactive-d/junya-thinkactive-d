@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 
-Hi there! I'm a programmer who loves exploring new technologies, with a particular interest in web3 and decentralized systems. My goal is to become a full-time engineer working on exciting projects across multiple DAOs. I enjoy tackling interesting coding challenges in my free time and hope to contribute to projects that can make a positive impact on society. If you're into blockchain, smart contracts, or anything web3-related, I'd love to chat!
+Hi there! I'm a programmer who loves exploring new technologies, with a particular interest in web3 and decentralized systems. I enjoy tackling interesting coding challenges in my free time and hope to contribute to projects that can make a positive impact on society. If you're into blockchain, smart contracts, or anything web3-related, I'd love to chat!
 
-こんにちは！新しい技術を探求するのが大好きなプログラマーです。特にweb3や分散型システムに興味があります。将来的には、複数のDAOで面白いプロジェクトに携わるフルタイムのエンジニアになることが目標です。空き時間には興味深いコーディングの課題に取り組んでおり、社会にポジティブな影響を与えるプロジェクトに貢献したいと考えています。ブロックチェーンやスマートコントラクト、web3関連のことに興味がある方、ぜひ一緒にお話しできたら嬉しいです。
+こんにちは！新しい技術を探求するのが大好きなプログラマーです。特にweb3や分散型システムに興味があります。空き時間には興味深いコーディングの課題に取り組んでおり、社会にポジティブな影響を与えるプロジェクトに貢献したいと考えています。ブロックチェーンやスマートコントラクト、web3関連のことに興味がある方、ぜひ一緒にお話しできたら嬉しいです。
 
 
 ### 🛠️ Technologies & Tools
